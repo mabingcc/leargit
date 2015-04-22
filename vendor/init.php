@@ -4,4 +4,8 @@
 		print_r($array);
 		echo '<pre>';
 	}
+	
+	function price_format(){
+
+	]
 ?>
