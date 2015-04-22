@@ -8,4 +8,5 @@
 	echo 'git diff'
 	echo '这里开发新功能';
 	echo '这里开发新功能';
+	echo 'dev分之添加';
 ?>
