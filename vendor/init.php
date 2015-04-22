@@ -6,4 +6,8 @@
 	}
 	function haha(){
 	}
+	
+	function price_format(){
+
+	]
 ?>
