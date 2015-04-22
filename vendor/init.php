@@ -9,5 +9,5 @@
 	
 	function price_format(){
 
-	]
+ooo	]
 ?>
