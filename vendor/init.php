@@ -4,4 +4,6 @@
 		print_r($array);
 		echo '<pre>';
 	}
+	function haha(){
+	}
 ?>
