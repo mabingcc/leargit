@@ -6,4 +6,6 @@
 	echo 'bug_fix';
 	echo '这里开发新功能';
 	echo 'git diff'
+	echo '这里开发新功能';
+	echo '这里开发新功能';
 ?>
